@@ -1,17 +1,8 @@
-# EP Daily Scanner — GitHub Actions
-#
-
-# Job 1 — Manhã 07:00 Lisboa (Verão UTC+1) — Polygon EOD + Claude
-# Job 2 — Tarde 16:00 Lisboa (Verão UTC+1) — yfinance intraday PRIME
-# Job 3 — Deploy GitHub Pages (corre após manhã)
-#
-# Horários de inverno (Out-Mar, UTC+0):
-#   Manhã:  '0 7  * * 1-5'
-#   Tarde:  '0 16 * * 1-5'
-
 name: EP Daily Scanner
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: '0 6 * * 1-5'
     - cron: '0 15 * * 1-5'
@@ -19,7 +10,6 @@ on:
 
 jobs:
 
-  # ── Job 1: Scan da manhã ─────────────────────────────────────────────────────
   scan-morning:
     name: Scan Manha (EOD)
     runs-on: ubuntu-latest
@@ -31,10 +21,10 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Instalar dependências
+      - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Scan EOD + Claude
+      - name: Scan EOD
         env:
           POLYGON_API_KEY:    ${{ secrets.POLYGON_API_KEY }}
           ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
@@ -50,13 +40,12 @@ jobs:
             --max-candidates 5 \
             --output-json results.json
 
-      - name: Gerar relatório HTML
+      - name: Gerar relatorio HTML
         run: |
+          mkdir -p docs
           python ep_report_generator.py --input results.json --output docs/index.html
-          echo "HTML gerado:"
-          ls -lh docs/
 
-      - name: Upload HTML como artefacto Pages
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs/
@@ -77,7 +66,6 @@ jobs:
           path: results.json
           retention-days: 30
 
-  # ── Job 2: Deploy GitHub Pages ───────────────────────────────────────────────
   deploy-pages:
     name: Publicar GitHub Pages
     needs: scan-morning
@@ -93,7 +81,6 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-  # ── Job 3: Scan da tarde ─────────────────────────────────────────────────────
   scan-afternoon:
     name: Scan Tarde (Intraday PRIME)
     runs-on: ubuntu-latest
@@ -105,7 +92,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Instalar dependências
+      - name: Instalar dependencias
         run: pip install -r requirements.txt
 
       - name: Download cache closes
