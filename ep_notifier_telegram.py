@@ -22,6 +22,7 @@ load_dotenv()
 
 TELEGRAM_TOKEN   = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+PAGES_URL        = "https://digitransarte.github.io/EP-Scanner/"
 
 WINDOW_EMOJI = {"PRIME": "🟢", "OPEN": "🟡", "LATE": "🔴"}
 TYPE_EMOJI   = {
@@ -262,6 +263,7 @@ def notify(scan_result: dict, min_score: int = 50, macro: dict = None) -> bool:
 
     footer = (
         f"{'─' * 28}\n"
+        f"🌐 [Ver relatório completo]({PAGES_URL})\n"
         f"_⚠️ Apenas informativo. Não é aconselhamento financeiro._\n"
         f"_Scores MAGNA 53 + CAP 10×10 · Pradeep Bonde / Stockbee_"
     )
