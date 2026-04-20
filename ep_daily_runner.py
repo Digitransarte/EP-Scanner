@@ -163,35 +163,38 @@ def main():
             print(f"[Tracker] {tracker_update['open']} abertas · {len(tracker_update['closed'])} fechadas hoje")
 
     # ── EP Pullback Monitor ──────────────────────────────────────────────────
-    print("\n[Monitor] A actualizar monitorização EP...")
-    try:
-        from ep_pullback_monitor import add_to_monitor, update_monitor, notify_signals
-        from ep_scanner_headless import fetch_grouped as _fg
+    # DESACTIVADO temporariamente para diagnosticar fonte das mensagens "Posicoes Abertas"
+    # no Telegram. Reactivar assim que confirmarmos.
+    print("\n[Monitor] Desactivado temporariamente (diagnostico).")
+    if False:
+        try:
+            from ep_pullback_monitor import add_to_monitor, update_monitor, notify_signals
+            from ep_scanner_headless import fetch_grouped as _fg
 
-        # Adicionar novos EPs qualificados à monitorização
-        candidates_ep = result.get("candidates", [])
-        added = 0
-        for c in candidates_ep:
-            if add_to_monitor(c, scan_date=result.get("session_date")):
-                added += 1
-        if added:
-            print(f"[Monitor] {added} novos EPs adicionados à monitorização")
+            # Adicionar novos EPs qualificados à monitorização
+            candidates_ep = result.get("candidates", [])
+            added = 0
+            for c in candidates_ep:
+                if add_to_monitor(c, scan_date=result.get("session_date")):
+                    added += 1
+            if added:
+                print(f"[Monitor] {added} novos EPs adicionados à monitorização")
 
-        # Actualizar todos os candidatos em monitorização
-        today_data_mon = _fg(result.get("session_date", ""))
-        mon_update = update_monitor(today_data_mon, result.get("session_date"))
+            # Actualizar todos os candidatos em monitorização
+            today_data_mon = _fg(result.get("session_date", ""))
+            mon_update = update_monitor(today_data_mon, result.get("session_date"))
 
-        print(f"[Monitor] {mon_update['updated']} actualizados · "
-              f"{len(mon_update['signals'])} sinais · "
-              f"{mon_update['expired']} expirados")
+            print(f"[Monitor] {mon_update['updated']} actualizados · "
+                  f"{len(mon_update['signals'])} sinais · "
+                  f"{mon_update['expired']} expirados")
 
-        # Enviar alertas de entrada
-        if mon_update["signals"]:
-            notify_signals(mon_update["signals"])
-            print(f"[Monitor] {len(mon_update['signals'])} alertas enviados")
+            # Enviar alertas de entrada
+            if mon_update["signals"]:
+                notify_signals(mon_update["signals"])
+                print(f"[Monitor] {len(mon_update['signals'])} alertas enviados")
 
-    except Exception as _me:
-        print(f"[Monitor] Erro: {_me}")
+        except Exception as _me:
+            print(f"[Monitor] Erro: {_me}")
 
     # ── Weekly digest (sextas-feiras) ────────────────────────────────────────
     from datetime import date
