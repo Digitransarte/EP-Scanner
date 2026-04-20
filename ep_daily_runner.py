@@ -79,11 +79,11 @@ def main():
         ok = send_test_message()
         sys.exit(0 if ok else 1)
 
-  # ── Load tracker state from JSON (fonte de verdade) ─────────────────────
+    # ── Load tracker state from JSON (fonte de verdade) ──────────────────────
     print("\n[Sync] A carregar estado do tracker a partir dos JSONs...")
     load_from_json()
-  
-  # ── Full scan ─────────────────────────────────────────────────────────────
+
+    # ── Full scan ─────────────────────────────────────────────────────────────
     print(f"\n{'='*50}")
     print(f"  EP Scanner — {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"{'='*50}")
@@ -130,18 +130,6 @@ def main():
         # Bug conhecido: precos em CANSLIM raw estao errados (20/04/2026).
         # Reactivar apos diagnostico da funcao canslim_scan em ep_scanner_headless.
         top_cs = []
-
-        all_top = top_ep + top_cs
-            c["strategy_type"] = "CANSLIM"
-            # Mapear campos para formato do tracker
-            if "change_pct" in c and "gap_pct" not in c:
-                c["gap_pct"] = c["change_pct"]
-            if "magna_score" not in c:
-                c["magna_score"] = int(c.get("oneil_score", 0))
-            if "stop_price" not in c:
-                c["stop_price"] = round(c.get("price", 0) * 0.92, 2)
-            if "stop_pct" not in c:
-                c["stop_pct"] = 8.0
 
         all_top = top_ep + top_cs
         saved = save_candidates(all_top, scan_date=result.get("session_date"))
@@ -225,9 +213,11 @@ def main():
     print(f"  Universo:    {result.get('n_universe', 0):,} tickers")
     print(f"  Candidatos:  {len(candidates)} detectados · {len(filtered)} notificados")
     print(f"{'='*50}\n")
-# ── Export tracker state to JSON (sera commitado pelo workflow) ─────────
+
+    # ── Export tracker state to JSON (sera commitado pelo workflow) ──────────
     print("[Sync] A exportar estado do tracker para JSON...")
     export_to_json(session_date=result.get("session_date"))
+
     sys.exit(0)
 
 
