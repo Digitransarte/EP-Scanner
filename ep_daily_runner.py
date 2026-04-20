@@ -127,7 +127,7 @@ def main():
             c["strategy_type"] = "EP"
 
         # CANSLIM candidates — threshold baseado em score raw
-        top_cs = [c for c in canslim_candidates if c.get("score", 0) >= 10]
+        top_cs = [c for c in canslim_candidates if c.get("score", 0) >= 25]
         for c in top_cs:
             c["strategy_type"] = "CANSLIM"
             # Mapear campos para formato do tracker
