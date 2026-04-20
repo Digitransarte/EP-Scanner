@@ -126,9 +126,16 @@ def main():
         for c in top_ep:
             c["strategy_type"] = "EP"
 
-        # CANSLIM candidates — threshold baseado em score raw
-        top_cs = [c for c in canslim_candidates if c.get("score", 0) >= 25]
-        for c in top_cs:
+      # CANSLIM candidates — DESACTIVADO temporariamente
+        # Bug conhecido: precos em CANSLIM raw estao errados (20/04/2026).
+        # Reactivar apos diagnostico da funcao canslim_scan em ep_scanner_headless.
+        top_cs = []
+        # top_cs = [c for c in canslim_candidates if c.get("score", 0) >= 25]
+        # for c in top_cs:
+        #     c["strategy_type"] = "CANSLIM"
+        #     ... resto do codigo ...
+
+        all_top = top_ep + top_cs
             c["strategy_type"] = "CANSLIM"
             # Mapear campos para formato do tracker
             if "change_pct" in c and "gap_pct" not in c:
