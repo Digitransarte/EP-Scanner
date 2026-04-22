@@ -1,7 +1,41 @@
 {
   "_meta": {
-    "updated_at": "2026-04-21T07:55:48Z",
+    "updated_at": "2026-04-22T07:51:43Z",
     "version": 1
   },
-  "positions": []
+  "positions": [
+    {
+      "id": 8,
+      "ticker": "KORU",
+      "scan_date": "2026-04-17",
+      "entry_price": 515.85,
+      "gap_pct": 9.99,
+      "vol_ratio": 1.87,
+      "magna_score": 0,
+      "strategy_type": "CANSLIM",
+      "ep_type": "STANDARD",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 474.58,
+      "stop_pct": 8.0,
+      "prev_close": 0.0,
+      "catalyst": "",
+      "thesis": "",
+      "sector": "",
+      "float_m": 0.0,
+      "status": "LOSS",
+      "current_price": 461.74,
+      "max_price": 515.85,
+      "min_price": 461.74,
+      "last_updated": "2026-04-21",
+      "exit_price": 461.74,
+      "exit_date": "2026-04-21",
+      "return_pct": -10.49,
+      "hold_days": 5,
+      "exit_reason": "STOP_HIT",
+      "kb_saved": 0
+    }
+  ]
 }
