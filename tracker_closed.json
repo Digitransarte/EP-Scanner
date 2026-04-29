@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated_at": "2026-04-28T08:28:40Z",
+    "updated_at": "2026-04-29T08:22:29Z",
     "version": 1
   },
   "positions": [
@@ -34,6 +34,39 @@
       "exit_date": "2026-04-21",
       "return_pct": -10.49,
       "hold_days": 5,
+      "exit_reason": "STOP_HIT",
+      "kb_saved": 0
+    },
+    {
+      "id": 9,
+      "ticker": "CMPS",
+      "scan_date": "2026-04-20",
+      "entry_price": 9.46,
+      "gap_pct": 29.8,
+      "vol_ratio": 20.25,
+      "magna_score": 72,
+      "strategy_type": "EP",
+      "ep_type": "9M_EP",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 8.63,
+      "stop_pct": 8.8,
+      "prev_close": 6.66,
+      "catalyst": "News/Development",
+      "thesis": "Massive volume acceleration with strong gap suggests significant clinical or regulatory development in psychedelic medicine space",
+      "sector": "Healthcare",
+      "float_m": 0.0,
+      "status": "LOSS",
+      "current_price": 8.44,
+      "max_price": 9.58,
+      "min_price": 8.44,
+      "last_updated": "2026-04-28",
+      "exit_price": 8.44,
+      "exit_date": "2026-04-28",
+      "return_pct": -10.78,
+      "hold_days": 9,
       "exit_reason": "STOP_HIT",
       "kb_saved": 0
     }
