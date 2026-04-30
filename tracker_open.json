@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-04-29T08:22:29Z",
-    "last_session": "2026-04-28",
+    "updated_at": "2026-04-30T08:25:39Z",
+    "last_session": "2026-04-29",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 107.19,
+      "current_price": 106.46,
       "max_price": 108.4831,
-      "min_price": 107.19,
-      "last_updated": "2026-04-28",
-      "return_pct": -0.73,
-      "hold_days": 12,
+      "min_price": 106.46,
+      "last_updated": "2026-04-29",
+      "return_pct": -1.41,
+      "hold_days": 13,
       "kb_saved": 0
     },
     {
@@ -57,12 +57,12 @@
       "sector": "",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 1719.21,
+      "current_price": 1724.14,
       "max_price": 1794.04,
       "min_price": 1650.47,
-      "last_updated": "2026-04-28",
-      "return_pct": 4.16,
-      "hold_days": 12,
+      "last_updated": "2026-04-29",
+      "return_pct": 4.46,
+      "hold_days": 13,
       "kb_saved": 0
     },
     {
@@ -87,12 +87,12 @@
       "sector": "",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 1504.08,
+      "current_price": 1526.84,
       "max_price": 1632.06,
       "min_price": 1468.35,
-      "last_updated": "2026-04-28",
-      "return_pct": 2.43,
-      "hold_days": 12,
+      "last_updated": "2026-04-29",
+      "return_pct": 3.98,
+      "hold_days": 13,
       "kb_saved": 0
     },
     {
@@ -117,12 +117,12 @@
       "sector": "",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 1088.93,
+      "current_price": 1063.11,
       "max_price": 1149.53,
       "min_price": 990.18,
-      "last_updated": "2026-04-28",
-      "return_pct": 8.59,
-      "hold_days": 12,
+      "last_updated": "2026-04-29",
+      "return_pct": 6.02,
+      "hold_days": 13,
       "kb_saved": 0
     },
     {
@@ -147,12 +147,12 @@
       "sector": "",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 962.26,
+      "current_price": 947.5,
       "max_price": 996.44,
-      "min_price": 954.43,
-      "last_updated": "2026-04-28",
-      "return_pct": -2.68,
-      "hold_days": 12,
+      "min_price": 947.5,
+      "last_updated": "2026-04-29",
+      "return_pct": -4.18,
+      "hold_days": 13,
       "kb_saved": 0
     },
     {
@@ -177,12 +177,12 @@
       "sector": "",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 71.6,
+      "current_price": 69.47,
       "max_price": 76.79,
-      "min_price": 71.6,
-      "last_updated": "2026-04-28",
-      "return_pct": -4.95,
-      "hold_days": 12,
+      "min_price": 69.47,
+      "last_updated": "2026-04-29",
+      "return_pct": -7.78,
+      "hold_days": 13,
       "kb_saved": 0
     },
     {
@@ -207,12 +207,12 @@
       "sector": "",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 926.55,
+      "current_price": 905.6,
       "max_price": 941.74,
-      "min_price": 925.95,
-      "last_updated": "2026-04-28",
-      "return_pct": 0.06,
-      "hold_days": 12,
+      "min_price": 905.6,
+      "last_updated": "2026-04-29",
+      "return_pct": -2.2,
+      "hold_days": 13,
       "kb_saved": 0
     },
     {
@@ -237,12 +237,12 @@
       "sector": "Technology",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 12.17,
+      "current_price": 11.14,
       "max_price": 16.52,
-      "min_price": 12.17,
-      "last_updated": "2026-04-28",
-      "return_pct": -11.68,
-      "hold_days": 6,
+      "min_price": 11.14,
+      "last_updated": "2026-04-29",
+      "return_pct": -19.16,
+      "hold_days": 7,
       "kb_saved": 0
     }
   ]
