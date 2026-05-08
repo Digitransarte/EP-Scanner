@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated_at": "2026-05-07T08:36:32Z",
+    "updated_at": "2026-05-08T07:46:09Z",
     "version": 1
   },
   "positions": [
@@ -100,6 +100,39 @@
       "exit_date": "2026-04-28",
       "return_pct": -10.78,
       "hold_days": 9,
+      "exit_reason": "STOP_HIT",
+      "kb_saved": 0
+    },
+    {
+      "id": 13,
+      "ticker": "VRDN",
+      "scan_date": "2026-05-05",
+      "entry_price": 18.75,
+      "gap_pct": 35.63,
+      "vol_ratio": 13.25,
+      "magna_score": 63,
+      "strategy_type": "EP",
+      "ep_type": "9M_EP",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 17.42,
+      "stop_pct": 7.1,
+      "prev_close": 14.06,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Healthcare",
+      "float_m": 0.0,
+      "status": "LOSS",
+      "current_price": 17.0,
+      "max_price": 18.75,
+      "min_price": 17.0,
+      "last_updated": "2026-05-07",
+      "exit_price": 17.0,
+      "exit_date": "2026-05-07",
+      "return_pct": -9.33,
+      "hold_days": 3,
       "exit_reason": "STOP_HIT",
       "kb_saved": 0
     }
