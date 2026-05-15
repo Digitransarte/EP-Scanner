@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-05-14T08:40:04Z",
-    "last_session": "2026-05-13",
+    "updated_at": "2026-05-15T08:51:26Z",
+    "last_session": "2026-05-14",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 110.59,
+      "current_price": 111.25,
       "max_price": 112.18,
       "min_price": 106.46,
-      "last_updated": "2026-05-13",
-      "return_pct": 2.42,
-      "hold_days": 27,
+      "last_updated": "2026-05-14",
+      "return_pct": 3.03,
+      "hold_days": 28,
       "kb_saved": 0
     },
     {
@@ -57,12 +57,12 @@
       "sector": "",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 2034.63,
-      "max_price": 2034.63,
+      "current_price": 2042.36,
+      "max_price": 2042.36,
       "min_price": 1650.47,
-      "last_updated": "2026-05-13",
-      "return_pct": 23.28,
-      "hold_days": 27,
+      "last_updated": "2026-05-14",
+      "return_pct": 23.74,
+      "hold_days": 28,
       "kb_saved": 0
     },
     {
@@ -87,12 +87,12 @@
       "sector": "",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 1650.35,
+      "current_price": 1613.97,
       "max_price": 1661.1,
       "min_price": 1468.35,
-      "last_updated": "2026-05-13",
-      "return_pct": 12.39,
-      "hold_days": 27,
+      "last_updated": "2026-05-14",
+      "return_pct": 9.92,
+      "hold_days": 28,
       "kb_saved": 0
     },
     {
@@ -117,12 +117,12 @@
       "sector": "",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 1062.57,
+      "current_price": 1090.53,
       "max_price": 1149.53,
       "min_price": 990.18,
-      "last_updated": "2026-05-13",
-      "return_pct": 5.97,
-      "hold_days": 27,
+      "last_updated": "2026-05-14",
+      "return_pct": 8.75,
+      "hold_days": 28,
       "kb_saved": 0
     },
     {
@@ -147,12 +147,12 @@
       "sector": "",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 87.42,
+      "current_price": 90.01,
       "max_price": 90.39,
       "min_price": 69.47,
-      "last_updated": "2026-05-13",
-      "return_pct": 16.05,
-      "hold_days": 27,
+      "last_updated": "2026-05-14",
+      "return_pct": 19.49,
+      "hold_days": 28,
       "kb_saved": 0
     },
     {
@@ -177,12 +177,12 @@
       "sector": "",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 955.42,
-      "max_price": 955.42,
+      "current_price": 968.96,
+      "max_price": 968.96,
       "min_price": 903.27,
-      "last_updated": "2026-05-13",
-      "return_pct": 3.18,
-      "hold_days": 27,
+      "last_updated": "2026-05-14",
+      "return_pct": 4.64,
+      "hold_days": 28,
       "kb_saved": 0
     },
     {
@@ -207,12 +207,12 @@
       "sector": "Healthcare",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 14.35,
+      "current_price": 14.21,
       "max_price": 14.66,
       "min_price": 14.0,
-      "last_updated": "2026-05-13",
-      "return_pct": 1.63,
-      "hold_days": 10,
+      "last_updated": "2026-05-14",
+      "return_pct": 0.64,
+      "hold_days": 11,
       "kb_saved": 0
     },
     {
@@ -237,12 +237,12 @@
       "sector": "Consumer Cyclical",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 9.39,
+      "current_price": 9.36,
       "max_price": 9.48,
       "min_price": 9.34,
-      "last_updated": "2026-05-13",
-      "return_pct": 0.54,
-      "hold_days": 10,
+      "last_updated": "2026-05-14",
+      "return_pct": 0.21,
+      "hold_days": 11,
       "kb_saved": 0
     },
     {
@@ -267,12 +267,12 @@
       "sector": "Financial Services",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 16.65,
+      "current_price": 16.675,
       "max_price": 16.72,
       "min_price": 16.65,
-      "last_updated": "2026-05-13",
-      "return_pct": -0.12,
-      "hold_days": 9,
+      "last_updated": "2026-05-14",
+      "return_pct": 0.03,
+      "hold_days": 10,
       "kb_saved": 0
     }
   ]
