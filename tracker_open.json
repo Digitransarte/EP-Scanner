@@ -1,8 +1,39 @@
 {
   "_meta": {
-    "updated_at": "2026-06-08T10:59:40Z",
-    "last_session": "2026-06-05",
+    "updated_at": "2026-06-09T09:48:22Z",
+    "last_session": "2026-06-08",
     "version": 1
   },
-  "positions": []
+  "positions": [
+    {
+      "id": 16,
+      "ticker": "MPAA",
+      "scan_date": "2026-06-08",
+      "entry_price": 14.25,
+      "gap_pct": 32.29,
+      "vol_ratio": 16.52,
+      "magna_score": 57,
+      "strategy_type": "EP",
+      "ep_type": "STORY/NEGLECTED",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 12.94,
+      "stop_pct": 9.2,
+      "prev_close": 10.59,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Consumer Cyclical",
+      "float_m": 0.0,
+      "status": "OPEN",
+      "current_price": 14.25,
+      "max_price": 14.25,
+      "min_price": 14.25,
+      "last_updated": "2026-06-08",
+      "return_pct": 0.0,
+      "hold_days": 1,
+      "kb_saved": 0
+    }
+  ]
 }
