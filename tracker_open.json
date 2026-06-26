@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-06-25T09:25:03Z",
-    "last_session": "2026-06-24",
+    "updated_at": "2026-06-26T09:30:30Z",
+    "last_session": "2026-06-25",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "Consumer Cyclical",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 15.01,
+      "current_price": 14.91,
       "max_price": 15.36,
       "min_price": 13.2,
-      "last_updated": "2026-06-24",
-      "return_pct": 5.33,
-      "hold_days": 17,
+      "last_updated": "2026-06-25",
+      "return_pct": 4.63,
+      "hold_days": 18,
       "kb_saved": 0
     },
     {
@@ -57,12 +57,12 @@
       "sector": "Healthcare",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 123.58,
+      "current_price": 123.53,
       "max_price": 123.58,
       "min_price": 123.25,
-      "last_updated": "2026-06-24",
-      "return_pct": 0.27,
-      "hold_days": 16,
+      "last_updated": "2026-06-25",
+      "return_pct": 0.23,
+      "hold_days": 17,
       "kb_saved": 0
     },
     {
@@ -87,12 +87,12 @@
       "sector": "Healthcare",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 48.85,
-      "max_price": 49.04,
+      "current_price": 49.1,
+      "max_price": 49.1,
       "min_price": 46.29,
-      "last_updated": "2026-06-24",
-      "return_pct": 1.43,
-      "hold_days": 8,
+      "last_updated": "2026-06-25",
+      "return_pct": 1.95,
+      "hold_days": 9,
       "kb_saved": 0
     },
     {
@@ -117,12 +117,12 @@
       "sector": "Healthcare",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 17.98,
+      "current_price": 17.96,
       "max_price": 18.53,
       "min_price": 16.81,
-      "last_updated": "2026-06-24",
-      "return_pct": 6.96,
-      "hold_days": 8,
+      "last_updated": "2026-06-25",
+      "return_pct": 6.84,
+      "hold_days": 9,
       "kb_saved": 0
     }
   ]
