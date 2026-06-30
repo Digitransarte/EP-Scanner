@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-06-29T11:03:22Z",
-    "last_session": "2026-06-26",
+    "updated_at": "2026-06-30T09:39:34Z",
+    "last_session": "2026-06-29",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "Healthcare",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 47.51,
+      "current_price": 47.39,
       "max_price": 49.1,
       "min_price": 46.29,
-      "last_updated": "2026-06-26",
-      "return_pct": -1.35,
-      "hold_days": 12,
+      "last_updated": "2026-06-29",
+      "return_pct": -1.6,
+      "hold_days": 13,
       "kb_saved": 0
     },
     {
@@ -57,12 +57,12 @@
       "sector": "Healthcare",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 18.48,
-      "max_price": 18.53,
+      "current_price": 19.43,
+      "max_price": 19.43,
       "min_price": 16.81,
-      "last_updated": "2026-06-26",
-      "return_pct": 9.93,
-      "hold_days": 12,
+      "last_updated": "2026-06-29",
+      "return_pct": 15.59,
+      "hold_days": 13,
       "kb_saved": 0
     }
   ]
