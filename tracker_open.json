@@ -1,40 +1,10 @@
 {
   "_meta": {
-    "updated_at": "2026-07-02T09:15:18Z",
-    "last_session": "2026-07-01",
+    "updated_at": "2026-07-03T09:20:31Z",
+    "last_session": "2026-07-02",
     "version": 1
   },
   "positions": [
-    {
-      "id": 18,
-      "ticker": "QURE",
-      "scan_date": "2026-06-17",
-      "entry_price": 48.16,
-      "gap_pct": 61.36,
-      "vol_ratio": 32.13,
-      "magna_score": 63,
-      "strategy_type": "EP",
-      "ep_type": "9M_EP",
-      "oneil_score": 0,
-      "oneil_grade": "",
-      "oneil_setup": "",
-      "entry_window": "PRIME",
-      "stop_price": 42.5,
-      "stop_pct": 11.8,
-      "prev_close": 26.99,
-      "catalyst": "—",
-      "thesis": "",
-      "sector": "Healthcare",
-      "float_m": 0.0,
-      "status": "OPEN",
-      "current_price": 45.17,
-      "max_price": 49.1,
-      "min_price": 45.17,
-      "last_updated": "2026-07-01",
-      "return_pct": -6.21,
-      "hold_days": 15,
-      "kb_saved": 0
-    },
     {
       "id": 19,
       "ticker": "CLPT",
@@ -60,9 +30,9 @@
       "current_price": 18.72,
       "max_price": 19.43,
       "min_price": 16.81,
-      "last_updated": "2026-07-01",
+      "last_updated": "2026-07-02",
       "return_pct": 11.36,
-      "hold_days": 15,
+      "hold_days": 16,
       "kb_saved": 0
     }
   ]
