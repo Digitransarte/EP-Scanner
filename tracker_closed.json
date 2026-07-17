@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated_at": "2026-07-16T08:16:18Z",
+    "updated_at": "2026-07-17T08:12:15Z",
     "version": 1
   },
   "positions": [
@@ -629,6 +629,39 @@
       "return_pct": 3.99,
       "hold_days": 21,
       "exit_reason": "EXPIRED_20D",
+      "kb_saved": 0
+    },
+    {
+      "id": 23,
+      "ticker": "ELVA",
+      "scan_date": "2026-07-15",
+      "entry_price": 11.76,
+      "gap_pct": 54.63,
+      "vol_ratio": 66.08,
+      "magna_score": 56,
+      "strategy_type": "EP",
+      "ep_type": "STORY/NEGLECTED",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 10.2,
+      "stop_pct": 13.3,
+      "prev_close": 7.89,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Industrials",
+      "float_m": 0.0,
+      "status": "LOSS",
+      "current_price": 9.54,
+      "max_price": 11.76,
+      "min_price": 9.54,
+      "last_updated": "2026-07-16",
+      "exit_price": 9.54,
+      "exit_date": "2026-07-16",
+      "return_pct": -18.88,
+      "hold_days": 2,
+      "exit_reason": "STOP_HIT",
       "kb_saved": 0
     }
   ]
