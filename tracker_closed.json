@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated_at": "2026-07-24T08:29:25Z",
+    "updated_at": "2026-07-27T09:54:37Z",
     "version": 1
   },
   "positions": [
@@ -628,6 +628,39 @@
       "exit_date": "2026-07-07",
       "return_pct": 3.99,
       "hold_days": 21,
+      "exit_reason": "EXPIRED_20D",
+      "kb_saved": 0
+    },
+    {
+      "id": 20,
+      "ticker": "CRNX",
+      "scan_date": "2026-07-07",
+      "entry_price": 83.53,
+      "gap_pct": 98.86,
+      "vol_ratio": 14.92,
+      "magna_score": 70,
+      "strategy_type": "EP",
+      "ep_type": "9M_EP",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 83.43,
+      "stop_pct": 0.1,
+      "prev_close": 42.03,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Healthcare",
+      "float_m": 0.0,
+      "status": "WIN",
+      "current_price": 83.73,
+      "max_price": 83.91,
+      "min_price": 83.49,
+      "last_updated": "2026-07-24",
+      "exit_price": 83.73,
+      "exit_date": "2026-07-24",
+      "return_pct": 0.24,
+      "hold_days": 20,
       "exit_reason": "EXPIRED_20D",
       "kb_saved": 0
     },
