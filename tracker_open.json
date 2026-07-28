@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-07-27T09:54:37Z",
-    "last_session": "2026-07-24",
+    "updated_at": "2026-07-28T08:36:09Z",
+    "last_session": "2026-07-27",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "Industrials",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 6.08,
+      "current_price": 6.24,
       "max_price": 12.79,
       "min_price": 6.08,
-      "last_updated": "2026-07-24",
-      "return_pct": -52.46,
-      "hold_days": 18,
+      "last_updated": "2026-07-27",
+      "return_pct": -51.21,
+      "hold_days": 19,
       "kb_saved": 0
     },
     {
@@ -57,12 +57,12 @@
       "sector": "Consumer Cyclical",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 12.97,
+      "current_price": 15.77,
       "max_price": 38.7,
       "min_price": 12.97,
-      "last_updated": "2026-07-24",
-      "return_pct": -47.83,
-      "hold_days": 14,
+      "last_updated": "2026-07-27",
+      "return_pct": -36.56,
+      "hold_days": 15,
       "kb_saved": 0
     },
     {
@@ -87,12 +87,12 @@
       "sector": "Financial Services",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 103.2,
+      "current_price": 103.0,
       "max_price": 103.2,
-      "min_price": 103.2,
-      "last_updated": "2026-07-24",
-      "return_pct": 0.0,
-      "hold_days": 3,
+      "min_price": 103.0,
+      "last_updated": "2026-07-27",
+      "return_pct": -0.19,
+      "hold_days": 4,
       "kb_saved": 0
     }
   ]
