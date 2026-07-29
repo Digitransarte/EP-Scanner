@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated_at": "2026-07-28T08:36:09Z",
+    "updated_at": "2026-07-29T08:42:51Z",
     "version": 1
   },
   "positions": [
@@ -660,6 +660,39 @@
       "exit_price": 83.73,
       "exit_date": "2026-07-24",
       "return_pct": 0.24,
+      "hold_days": 20,
+      "exit_reason": "EXPIRED_20D",
+      "kb_saved": 0
+    },
+    {
+      "id": 21,
+      "ticker": "JLHL",
+      "scan_date": "2026-07-09",
+      "entry_price": 12.79,
+      "gap_pct": 21.9,
+      "vol_ratio": 97.57,
+      "magna_score": 72,
+      "strategy_type": "EP",
+      "ep_type": "STORY/NEGLECTED",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 3.72,
+      "stop_pct": 70.9,
+      "prev_close": 3.06,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Industrials",
+      "float_m": 0.0,
+      "status": "LOSS",
+      "current_price": 5.92,
+      "max_price": 12.79,
+      "min_price": 5.92,
+      "last_updated": "2026-07-28",
+      "exit_price": 5.92,
+      "exit_date": "2026-07-28",
+      "return_pct": -53.71,
       "hold_days": 20,
       "exit_reason": "EXPIRED_20D",
       "kb_saved": 0
