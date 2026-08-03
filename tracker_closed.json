@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated_at": "2026-07-31T08:51:47Z",
+    "updated_at": "2026-08-03T09:48:20Z",
     "version": 1
   },
   "positions": [
@@ -694,6 +694,39 @@
       "exit_date": "2026-07-28",
       "return_pct": -53.71,
       "hold_days": 20,
+      "exit_reason": "EXPIRED_20D",
+      "kb_saved": 0
+    },
+    {
+      "id": 22,
+      "ticker": "VEEE",
+      "scan_date": "2026-07-13",
+      "entry_price": 24.86,
+      "gap_pct": 153.94,
+      "vol_ratio": 454.22,
+      "magna_score": 52,
+      "strategy_type": "EP",
+      "ep_type": "STORY/NEGLECTED",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 10.06,
+      "stop_pct": 59.5,
+      "prev_close": 4.82,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Consumer Cyclical",
+      "float_m": 0.0,
+      "status": "LOSS",
+      "current_price": 11.7,
+      "max_price": 38.7,
+      "min_price": 11.7,
+      "last_updated": "2026-07-31",
+      "exit_price": 11.7,
+      "exit_date": "2026-07-31",
+      "return_pct": -52.94,
+      "hold_days": 21,
       "exit_reason": "EXPIRED_20D",
       "kb_saved": 0
     },
