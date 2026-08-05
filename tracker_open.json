@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-08-04T08:38:54Z",
-    "last_session": "2026-08-03",
+    "updated_at": "2026-08-05T08:38:04Z",
+    "last_session": "2026-08-04",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "Financial Services",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 103.19,
+      "current_price": 103.26,
       "max_price": 103.39,
       "min_price": 103.0,
-      "last_updated": "2026-08-03",
-      "return_pct": -0.01,
-      "hold_days": 11,
+      "last_updated": "2026-08-04",
+      "return_pct": 0.06,
+      "hold_days": 12,
       "kb_saved": 0
     },
     {
@@ -57,12 +57,42 @@
       "sector": "Communication Services",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 9.23,
+      "current_price": 9.35,
       "max_price": 9.84,
       "min_price": 9.23,
-      "last_updated": "2026-08-03",
-      "return_pct": -6.2,
-      "hold_days": 7,
+      "last_updated": "2026-08-04",
+      "return_pct": -4.98,
+      "hold_days": 8,
+      "kb_saved": 0
+    },
+    {
+      "id": 28,
+      "ticker": "MOVE",
+      "scan_date": "2026-08-04",
+      "entry_price": 13.73,
+      "gap_pct": 74.54,
+      "vol_ratio": 963.19,
+      "magna_score": 74,
+      "strategy_type": "EP",
+      "ep_type": "STORY/NEGLECTED",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 13.5,
+      "stop_pct": 1.7,
+      "prev_close": 10.76,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Technology",
+      "float_m": 0.0,
+      "status": "OPEN",
+      "current_price": 13.73,
+      "max_price": 13.73,
+      "min_price": 13.73,
+      "last_updated": "2026-08-04",
+      "return_pct": 0.0,
+      "hold_days": 1,
       "kb_saved": 0
     }
   ]
