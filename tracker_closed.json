@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated_at": "2026-08-05T08:38:04Z",
+    "updated_at": "2026-08-06T08:38:30Z",
     "version": 1
   },
   "positions": [
@@ -826,6 +826,39 @@
       "exit_date": "2026-08-03",
       "return_pct": -64.39,
       "hold_days": 5,
+      "exit_reason": "STOP_HIT",
+      "kb_saved": 0
+    },
+    {
+      "id": 28,
+      "ticker": "MOVE",
+      "scan_date": "2026-08-04",
+      "entry_price": 13.73,
+      "gap_pct": 74.54,
+      "vol_ratio": 963.19,
+      "magna_score": 74,
+      "strategy_type": "EP",
+      "ep_type": "STORY/NEGLECTED",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 13.5,
+      "stop_pct": 1.7,
+      "prev_close": 10.76,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Technology",
+      "float_m": 0.0,
+      "status": "LOSS",
+      "current_price": 12.16,
+      "max_price": 13.73,
+      "min_price": 12.16,
+      "last_updated": "2026-08-05",
+      "exit_price": 12.16,
+      "exit_date": "2026-08-05",
+      "return_pct": -11.43,
+      "hold_days": 2,
       "exit_reason": "STOP_HIT",
       "kb_saved": 0
     }
