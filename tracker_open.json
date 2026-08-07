@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-08-06T08:38:30Z",
-    "last_session": "2026-08-05",
+    "updated_at": "2026-08-07T07:17:49Z",
+    "last_session": "2026-08-06",
     "version": 1
   },
   "positions": [
@@ -30,9 +30,9 @@
       "current_price": 103.5,
       "max_price": 103.5,
       "min_price": 103.0,
-      "last_updated": "2026-08-05",
+      "last_updated": "2026-08-06",
       "return_pct": 0.29,
-      "hold_days": 13,
+      "hold_days": 14,
       "kb_saved": 0
     },
     {
@@ -57,12 +57,12 @@
       "sector": "Communication Services",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 9.88,
-      "max_price": 9.88,
+      "current_price": 10.0,
+      "max_price": 10.0,
       "min_price": 9.23,
-      "last_updated": "2026-08-05",
-      "return_pct": 0.41,
-      "hold_days": 9,
+      "last_updated": "2026-08-06",
+      "return_pct": 1.63,
+      "hold_days": 10,
       "kb_saved": 0
     },
     {
@@ -87,12 +87,12 @@
       "sector": "Industrials",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 9.35,
+      "current_price": 8.6,
       "max_price": 9.35,
-      "min_price": 9.35,
-      "last_updated": "2026-08-05",
-      "return_pct": 0.0,
-      "hold_days": 1,
+      "min_price": 8.6,
+      "last_updated": "2026-08-06",
+      "return_pct": -8.02,
+      "hold_days": 2,
       "kb_saved": 0
     },
     {
@@ -117,12 +117,12 @@
       "sector": "Industrials",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 16.06,
-      "max_price": 16.06,
+      "current_price": 17.58,
+      "max_price": 17.58,
       "min_price": 16.06,
-      "last_updated": "2026-08-05",
-      "return_pct": 0.0,
-      "hold_days": 1,
+      "last_updated": "2026-08-06",
+      "return_pct": 9.46,
+      "hold_days": 2,
       "kb_saved": 0
     }
   ]
