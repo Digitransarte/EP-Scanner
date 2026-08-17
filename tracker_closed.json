@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated_at": "2026-08-14T07:26:16Z",
+    "updated_at": "2026-08-17T06:57:47Z",
     "version": 1
   },
   "positions": [
@@ -792,6 +792,39 @@
       "exit_price": 103.52,
       "exit_date": "2026-08-12",
       "return_pct": 0.31,
+      "hold_days": 20,
+      "exit_reason": "EXPIRED_20D",
+      "kb_saved": 0
+    },
+    {
+      "id": 25,
+      "ticker": "FIRY",
+      "scan_date": "2026-07-28",
+      "entry_price": 9.84,
+      "gap_pct": 67.05,
+      "vol_ratio": 174.73,
+      "magna_score": 65,
+      "strategy_type": "EP",
+      "ep_type": "STORY/NEGLECTED",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 9.2,
+      "stop_pct": 6.5,
+      "prev_close": 8.36,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Communication Services",
+      "float_m": 0.0,
+      "status": "LOSS",
+      "current_price": 9.5,
+      "max_price": 10.48,
+      "min_price": 9.23,
+      "last_updated": "2026-08-14",
+      "exit_price": 9.5,
+      "exit_date": "2026-08-14",
+      "return_pct": -3.46,
       "hold_days": 20,
       "exit_reason": "EXPIRED_20D",
       "kb_saved": 0
