@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-08-19T06:45:22Z",
-    "last_session": "2026-08-18",
+    "updated_at": "2026-08-20T06:48:37Z",
+    "last_session": "2026-08-19",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "Industrials",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 7.64,
+      "current_price": 7.08,
       "max_price": 9.35,
-      "min_price": 7.19,
-      "last_updated": "2026-08-18",
-      "return_pct": -18.29,
-      "hold_days": 14,
+      "min_price": 7.08,
+      "last_updated": "2026-08-19",
+      "return_pct": -24.28,
+      "hold_days": 15,
       "kb_saved": 0
     },
     {
@@ -57,12 +57,12 @@
       "sector": "Industrials",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 19.08,
+      "current_price": 18.62,
       "max_price": 20.59,
       "min_price": 16.06,
-      "last_updated": "2026-08-18",
-      "return_pct": 18.8,
-      "hold_days": 14,
+      "last_updated": "2026-08-19",
+      "return_pct": 15.94,
+      "hold_days": 15,
       "kb_saved": 0
     },
     {
@@ -87,12 +87,12 @@
       "sector": "Industrials",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 42.53,
-      "max_price": 42.53,
+      "current_price": 42.55,
+      "max_price": 42.55,
       "min_price": 42.2,
-      "last_updated": "2026-08-18",
-      "return_pct": 0.26,
-      "hold_days": 9,
+      "last_updated": "2026-08-19",
+      "return_pct": 0.31,
+      "hold_days": 10,
       "kb_saved": 0
     },
     {
@@ -117,12 +117,12 @@
       "sector": "Consumer Cyclical",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 52.18,
+      "current_price": 52.22,
       "max_price": 52.46,
       "min_price": 52.02,
-      "last_updated": "2026-08-18",
-      "return_pct": 0.12,
-      "hold_days": 9,
+      "last_updated": "2026-08-19",
+      "return_pct": 0.19,
+      "hold_days": 10,
       "kb_saved": 0
     },
     {
@@ -147,12 +147,12 @@
       "sector": "Financial Services",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 19.56,
+      "current_price": 19.55,
       "max_price": 19.58,
       "min_price": 19.51,
-      "last_updated": "2026-08-18",
-      "return_pct": 0.26,
-      "hold_days": 6,
+      "last_updated": "2026-08-19",
+      "return_pct": 0.21,
+      "hold_days": 7,
       "kb_saved": 0
     },
     {
@@ -177,12 +177,12 @@
       "sector": "Consumer Cyclical",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 9.35,
+      "current_price": 8.82,
       "max_price": 11.72,
-      "min_price": 9.08,
-      "last_updated": "2026-08-18",
-      "return_pct": -20.22,
-      "hold_days": 6,
+      "min_price": 8.82,
+      "last_updated": "2026-08-19",
+      "return_pct": -24.74,
+      "hold_days": 7,
       "kb_saved": 0
     }
   ]
