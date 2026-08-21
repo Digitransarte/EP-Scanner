@@ -1,40 +1,10 @@
 {
   "_meta": {
-    "updated_at": "2026-08-20T06:48:37Z",
-    "last_session": "2026-08-19",
+    "updated_at": "2026-08-21T06:49:33Z",
+    "last_session": "2026-08-20",
     "version": 1
   },
   "positions": [
-    {
-      "id": 29,
-      "ticker": "JLHL",
-      "scan_date": "2026-08-05",
-      "entry_price": 9.35,
-      "gap_pct": 29.34,
-      "vol_ratio": 248.74,
-      "magna_score": 68,
-      "strategy_type": "EP",
-      "ep_type": "9M_EP",
-      "oneil_score": 0,
-      "oneil_grade": "",
-      "oneil_setup": "",
-      "entry_window": "PRIME",
-      "stop_price": 7.0,
-      "stop_pct": 25.1,
-      "prev_close": 5.42,
-      "catalyst": "—",
-      "thesis": "",
-      "sector": "Industrials",
-      "float_m": 0.0,
-      "status": "OPEN",
-      "current_price": 7.08,
-      "max_price": 9.35,
-      "min_price": 7.08,
-      "last_updated": "2026-08-19",
-      "return_pct": -24.28,
-      "hold_days": 15,
-      "kb_saved": 0
-    },
     {
       "id": 30,
       "ticker": "OESX",
@@ -57,12 +27,12 @@
       "sector": "Industrials",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 18.62,
+      "current_price": 19.07,
       "max_price": 20.59,
       "min_price": 16.06,
-      "last_updated": "2026-08-19",
-      "return_pct": 15.94,
-      "hold_days": 15,
+      "last_updated": "2026-08-20",
+      "return_pct": 18.74,
+      "hold_days": 16,
       "kb_saved": 0
     },
     {
@@ -90,9 +60,9 @@
       "current_price": 42.55,
       "max_price": 42.55,
       "min_price": 42.2,
-      "last_updated": "2026-08-19",
+      "last_updated": "2026-08-20",
       "return_pct": 0.31,
-      "hold_days": 10,
+      "hold_days": 11,
       "kb_saved": 0
     },
     {
@@ -117,12 +87,12 @@
       "sector": "Consumer Cyclical",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 52.22,
+      "current_price": 52.25,
       "max_price": 52.46,
       "min_price": 52.02,
-      "last_updated": "2026-08-19",
-      "return_pct": 0.19,
-      "hold_days": 10,
+      "last_updated": "2026-08-20",
+      "return_pct": 0.25,
+      "hold_days": 11,
       "kb_saved": 0
     },
     {
@@ -147,12 +117,12 @@
       "sector": "Financial Services",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 19.55,
+      "current_price": 19.57,
       "max_price": 19.58,
       "min_price": 19.51,
-      "last_updated": "2026-08-19",
-      "return_pct": 0.21,
-      "hold_days": 7,
+      "last_updated": "2026-08-20",
+      "return_pct": 0.31,
+      "hold_days": 8,
       "kb_saved": 0
     },
     {
@@ -177,12 +147,12 @@
       "sector": "Consumer Cyclical",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 8.82,
+      "current_price": 8.83,
       "max_price": 11.72,
       "min_price": 8.82,
-      "last_updated": "2026-08-19",
-      "return_pct": -24.74,
-      "hold_days": 7,
+      "last_updated": "2026-08-20",
+      "return_pct": -24.66,
+      "hold_days": 8,
       "kb_saved": 0
     }
   ]
