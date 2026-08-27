@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-08-26T06:51:49Z",
-    "last_session": "2026-08-25",
+    "updated_at": "2026-08-27T17:25:22Z",
+    "last_session": "2026-08-26",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "Industrials",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 42.53,
+      "current_price": 42.52,
       "max_price": 42.61,
       "min_price": 42.2,
-      "last_updated": "2026-08-25",
-      "return_pct": 0.26,
-      "hold_days": 16,
+      "last_updated": "2026-08-26",
+      "return_pct": 0.24,
+      "hold_days": 17,
       "kb_saved": 0
     },
     {
@@ -57,12 +57,12 @@
       "sector": "Consumer Cyclical",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 52.18,
+      "current_price": 52.11,
       "max_price": 52.46,
       "min_price": 52.02,
-      "last_updated": "2026-08-25",
-      "return_pct": 0.12,
-      "hold_days": 16,
+      "last_updated": "2026-08-26",
+      "return_pct": -0.02,
+      "hold_days": 17,
       "kb_saved": 0
     },
     {
@@ -90,9 +90,39 @@
       "current_price": 19.67,
       "max_price": 19.67,
       "min_price": 19.51,
-      "last_updated": "2026-08-25",
+      "last_updated": "2026-08-26",
       "return_pct": 0.82,
-      "hold_days": 13,
+      "hold_days": 14,
+      "kb_saved": 0
+    },
+    {
+      "id": 37,
+      "ticker": "RDIB",
+      "scan_date": "2026-08-26",
+      "entry_price": 15.38,
+      "gap_pct": 32.95,
+      "vol_ratio": 7440.34,
+      "magna_score": 50,
+      "strategy_type": "EP",
+      "ep_type": "STORY/NEGLECTED",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 12.0,
+      "stop_pct": 22.0,
+      "prev_close": 9.5,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Communication Services",
+      "float_m": 0.0,
+      "status": "OPEN",
+      "current_price": 15.38,
+      "max_price": 15.38,
+      "min_price": 15.38,
+      "last_updated": "2026-08-26",
+      "return_pct": 0.0,
+      "hold_days": 1,
       "kb_saved": 0
     }
   ]
