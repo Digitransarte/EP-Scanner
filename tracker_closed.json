@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated_at": "2026-09-01T11:16:16Z",
+    "updated_at": "2026-09-02T10:49:38Z",
     "version": 1
   },
   "positions": [
@@ -1123,6 +1123,39 @@
       "exit_date": "2026-08-28",
       "return_pct": 0.12,
       "hold_days": 21,
+      "exit_reason": "EXPIRED_20D",
+      "kb_saved": 0
+    },
+    {
+      "id": 35,
+      "ticker": "ARX",
+      "scan_date": "2026-08-13",
+      "entry_price": 19.51,
+      "gap_pct": 44.09,
+      "vol_ratio": 31.84,
+      "magna_score": 64,
+      "strategy_type": "EP",
+      "ep_type": "9M_EP",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 19.45,
+      "stop_pct": 0.3,
+      "prev_close": 13.61,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Financial Services",
+      "float_m": 0.0,
+      "status": "WIN",
+      "current_price": 19.78,
+      "max_price": 19.78,
+      "min_price": 19.51,
+      "last_updated": "2026-09-01",
+      "exit_price": 19.78,
+      "exit_date": "2026-09-01",
+      "return_pct": 1.38,
+      "hold_days": 20,
       "exit_reason": "EXPIRED_20D",
       "kb_saved": 0
     },

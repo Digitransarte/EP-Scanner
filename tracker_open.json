@@ -1,40 +1,10 @@
 {
   "_meta": {
-    "updated_at": "2026-09-01T11:16:16Z",
-    "last_session": "2026-08-31",
+    "updated_at": "2026-09-02T10:49:38Z",
+    "last_session": "2026-09-01",
     "version": 1
   },
   "positions": [
-    {
-      "id": 35,
-      "ticker": "ARX",
-      "scan_date": "2026-08-13",
-      "entry_price": 19.51,
-      "gap_pct": 44.09,
-      "vol_ratio": 31.84,
-      "magna_score": 64,
-      "strategy_type": "EP",
-      "ep_type": "9M_EP",
-      "oneil_score": 0,
-      "oneil_grade": "",
-      "oneil_setup": "",
-      "entry_window": "PRIME",
-      "stop_price": 19.45,
-      "stop_pct": 0.3,
-      "prev_close": 13.61,
-      "catalyst": "—",
-      "thesis": "",
-      "sector": "Financial Services",
-      "float_m": 0.0,
-      "status": "OPEN",
-      "current_price": 19.73,
-      "max_price": 19.73,
-      "min_price": 19.51,
-      "last_updated": "2026-08-31",
-      "return_pct": 1.13,
-      "hold_days": 19,
-      "kb_saved": 0
-    },
     {
       "id": 37,
       "ticker": "RDIB",
@@ -57,12 +27,12 @@
       "sector": "Communication Services",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 15.1,
+      "current_price": 17.7,
       "max_price": 18.31,
       "min_price": 15.1,
-      "last_updated": "2026-08-31",
-      "return_pct": -1.82,
-      "hold_days": 6,
+      "last_updated": "2026-09-01",
+      "return_pct": 15.08,
+      "hold_days": 7,
       "kb_saved": 0
     },
     {
@@ -87,12 +57,12 @@
       "sector": "Technology",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 10.95,
-      "max_price": 10.95,
+      "current_price": 12.81,
+      "max_price": 12.81,
       "min_price": 10.95,
-      "last_updated": "2026-08-31",
-      "return_pct": 0.0,
-      "hold_days": 1,
+      "last_updated": "2026-09-01",
+      "return_pct": 16.99,
+      "hold_days": 2,
       "kb_saved": 0
     }
   ]
