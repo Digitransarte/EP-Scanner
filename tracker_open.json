@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-09-02T10:49:38Z",
-    "last_session": "2026-09-01",
+    "updated_at": "2026-09-03T10:49:46Z",
+    "last_session": "2026-09-02",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "Communication Services",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 17.7,
+      "current_price": 14.87,
       "max_price": 18.31,
-      "min_price": 15.1,
-      "last_updated": "2026-09-01",
-      "return_pct": 15.08,
-      "hold_days": 7,
+      "min_price": 14.87,
+      "last_updated": "2026-09-02",
+      "return_pct": -3.32,
+      "hold_days": 8,
       "kb_saved": 0
     },
     {
@@ -57,12 +57,12 @@
       "sector": "Technology",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 12.81,
-      "max_price": 12.81,
+      "current_price": 14.48,
+      "max_price": 14.48,
       "min_price": 10.95,
-      "last_updated": "2026-09-01",
-      "return_pct": 16.99,
-      "hold_days": 2,
+      "last_updated": "2026-09-02",
+      "return_pct": 32.24,
+      "hold_days": 3,
       "kb_saved": 0
     }
   ]
