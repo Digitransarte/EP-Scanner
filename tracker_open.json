@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-09-09T10:54:21Z",
-    "last_session": "2026-09-08",
+    "updated_at": "2026-09-10T10:50:42Z",
+    "last_session": "2026-09-09",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "Communication Services",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 14.99,
+      "current_price": 13.48,
       "max_price": 18.31,
-      "min_price": 13.745,
-      "last_updated": "2026-09-04",
-      "return_pct": -2.54,
-      "hold_days": 12,
+      "min_price": 13.48,
+      "last_updated": "2026-09-09",
+      "return_pct": -12.35,
+      "hold_days": 15,
       "kb_saved": 0
     },
     {
@@ -57,12 +57,12 @@
       "sector": "Technology",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 14.74,
+      "current_price": 13.85,
       "max_price": 14.74,
       "min_price": 10.95,
-      "last_updated": "2026-09-04",
-      "return_pct": 34.61,
-      "hold_days": 7,
+      "last_updated": "2026-09-09",
+      "return_pct": 26.48,
+      "hold_days": 10,
       "kb_saved": 0
     },
     {
@@ -87,12 +87,12 @@
       "sector": "Consumer Cyclical",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 9.89,
+      "current_price": 8.95,
       "max_price": 9.89,
-      "min_price": 9.08,
-      "last_updated": "2026-09-04",
-      "return_pct": 8.92,
-      "hold_days": 4,
+      "min_price": 8.95,
+      "last_updated": "2026-09-09",
+      "return_pct": -1.43,
+      "hold_days": 7,
       "kb_saved": 0
     },
     {
@@ -117,12 +117,12 @@
       "sector": "Consumer Cyclical",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 14.48,
-      "max_price": 14.48,
+      "current_price": 15.0,
+      "max_price": 15.0,
       "min_price": 14.48,
-      "last_updated": "2026-09-04",
-      "return_pct": 0.0,
-      "hold_days": 3,
+      "last_updated": "2026-09-09",
+      "return_pct": 3.59,
+      "hold_days": 6,
       "kb_saved": 0
     }
   ]
