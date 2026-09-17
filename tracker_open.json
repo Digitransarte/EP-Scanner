@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-09-16T10:59:53Z",
-    "last_session": "2026-09-15",
+    "updated_at": "2026-09-17T11:10:45Z",
+    "last_session": "2026-09-16",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "Consumer Cyclical",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 8.82,
+      "current_price": 8.91,
       "max_price": 9.89,
       "min_price": 8.82,
-      "last_updated": "2026-09-15",
-      "return_pct": -2.86,
-      "hold_days": 13,
+      "last_updated": "2026-09-16",
+      "return_pct": -1.87,
+      "hold_days": 14,
       "kb_saved": 0
     },
     {
@@ -57,12 +57,12 @@
       "sector": "Consumer Cyclical",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 15.305,
+      "current_price": 15.44,
       "max_price": 15.68,
       "min_price": 14.48,
-      "last_updated": "2026-09-15",
-      "return_pct": 5.7,
-      "hold_days": 12,
+      "last_updated": "2026-09-16",
+      "return_pct": 6.63,
+      "hold_days": 13,
       "kb_saved": 0
     }
   ]
