@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated_at": "2026-09-22T11:08:10Z",
+    "updated_at": "2026-09-23T10:57:43Z",
     "version": 1
   },
   "positions": [
@@ -1256,6 +1256,39 @@
       "return_pct": -2.19,
       "hold_days": 16,
       "exit_reason": "STOP_HIT",
+      "kb_saved": 0
+    },
+    {
+      "id": 39,
+      "ticker": "CHPT",
+      "scan_date": "2026-09-03",
+      "entry_price": 9.08,
+      "gap_pct": 32.95,
+      "vol_ratio": 27.05,
+      "magna_score": 50,
+      "strategy_type": "EP",
+      "ep_type": "9M_EP",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 6.71,
+      "stop_pct": 26.1,
+      "prev_close": 5.19,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Consumer Cyclical",
+      "float_m": 0.0,
+      "status": "WIN",
+      "current_price": 9.85,
+      "max_price": 10.32,
+      "min_price": 8.82,
+      "last_updated": "2026-09-22",
+      "exit_price": 9.85,
+      "exit_date": "2026-09-22",
+      "return_pct": 8.48,
+      "hold_days": 20,
+      "exit_reason": "EXPIRED_20D",
       "kb_saved": 0
     },
     {

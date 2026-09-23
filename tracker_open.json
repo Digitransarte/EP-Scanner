@@ -1,40 +1,10 @@
 {
   "_meta": {
-    "updated_at": "2026-09-22T11:08:10Z",
-    "last_session": "2026-09-21",
+    "updated_at": "2026-09-23T10:57:43Z",
+    "last_session": "2026-09-22",
     "version": 1
   },
   "positions": [
-    {
-      "id": 39,
-      "ticker": "CHPT",
-      "scan_date": "2026-09-03",
-      "entry_price": 9.08,
-      "gap_pct": 32.95,
-      "vol_ratio": 27.05,
-      "magna_score": 50,
-      "strategy_type": "EP",
-      "ep_type": "9M_EP",
-      "oneil_score": 0,
-      "oneil_grade": "",
-      "oneil_setup": "",
-      "entry_window": "PRIME",
-      "stop_price": 6.71,
-      "stop_pct": 26.1,
-      "prev_close": 5.19,
-      "catalyst": "—",
-      "thesis": "",
-      "sector": "Consumer Cyclical",
-      "float_m": 0.0,
-      "status": "OPEN",
-      "current_price": 9.41,
-      "max_price": 10.32,
-      "min_price": 8.82,
-      "last_updated": "2026-09-21",
-      "return_pct": 3.63,
-      "hold_days": 19,
-      "kb_saved": 0
-    },
     {
       "id": 40,
       "ticker": "AOUT",
@@ -57,12 +27,12 @@
       "sector": "Consumer Cyclical",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 16.83,
+      "current_price": 16.68,
       "max_price": 16.83,
       "min_price": 14.48,
-      "last_updated": "2026-09-21",
-      "return_pct": 16.23,
-      "hold_days": 18,
+      "last_updated": "2026-09-22",
+      "return_pct": 15.19,
+      "hold_days": 19,
       "kb_saved": 0
     },
     {
@@ -87,12 +57,12 @@
       "sector": "Healthcare",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 7.7,
+      "current_price": 8.555,
       "max_price": 9.43,
       "min_price": 7.7,
-      "last_updated": "2026-09-21",
-      "return_pct": -12.0,
-      "hold_days": 5,
+      "last_updated": "2026-09-22",
+      "return_pct": -2.23,
+      "hold_days": 6,
       "kb_saved": 0
     }
   ]
