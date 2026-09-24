@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated_at": "2026-09-23T10:57:43Z",
+    "updated_at": "2026-09-24T11:17:35Z",
     "version": 1
   },
   "positions": [
@@ -1287,6 +1287,39 @@
       "exit_price": 9.85,
       "exit_date": "2026-09-22",
       "return_pct": 8.48,
+      "hold_days": 20,
+      "exit_reason": "EXPIRED_20D",
+      "kb_saved": 0
+    },
+    {
+      "id": 40,
+      "ticker": "AOUT",
+      "scan_date": "2026-09-04",
+      "entry_price": 14.48,
+      "gap_pct": 27.47,
+      "vol_ratio": 14.07,
+      "magna_score": 57,
+      "strategy_type": "EP",
+      "ep_type": "STORY/NEGLECTED",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 12.76,
+      "stop_pct": 11.9,
+      "prev_close": 10.01,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Consumer Cyclical",
+      "float_m": 0.0,
+      "status": "WIN",
+      "current_price": 16.51,
+      "max_price": 16.83,
+      "min_price": 14.48,
+      "last_updated": "2026-09-23",
+      "exit_price": 16.51,
+      "exit_date": "2026-09-23",
+      "return_pct": 14.02,
       "hold_days": 20,
       "exit_reason": "EXPIRED_20D",
       "kb_saved": 0

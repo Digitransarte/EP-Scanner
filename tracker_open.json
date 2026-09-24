@@ -1,40 +1,10 @@
 {
   "_meta": {
-    "updated_at": "2026-09-23T10:57:43Z",
-    "last_session": "2026-09-22",
+    "updated_at": "2026-09-24T11:17:35Z",
+    "last_session": "2026-09-23",
     "version": 1
   },
   "positions": [
-    {
-      "id": 40,
-      "ticker": "AOUT",
-      "scan_date": "2026-09-04",
-      "entry_price": 14.48,
-      "gap_pct": 27.47,
-      "vol_ratio": 14.07,
-      "magna_score": 57,
-      "strategy_type": "EP",
-      "ep_type": "STORY/NEGLECTED",
-      "oneil_score": 0,
-      "oneil_grade": "",
-      "oneil_setup": "",
-      "entry_window": "PRIME",
-      "stop_price": 12.76,
-      "stop_pct": 11.9,
-      "prev_close": 10.01,
-      "catalyst": "—",
-      "thesis": "",
-      "sector": "Consumer Cyclical",
-      "float_m": 0.0,
-      "status": "OPEN",
-      "current_price": 16.68,
-      "max_price": 16.83,
-      "min_price": 14.48,
-      "last_updated": "2026-09-22",
-      "return_pct": 15.19,
-      "hold_days": 19,
-      "kb_saved": 0
-    },
     {
       "id": 42,
       "ticker": "BIAF",
@@ -57,12 +27,12 @@
       "sector": "Healthcare",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 8.555,
+      "current_price": 7.94,
       "max_price": 9.43,
       "min_price": 7.7,
-      "last_updated": "2026-09-22",
-      "return_pct": -2.23,
-      "hold_days": 6,
+      "last_updated": "2026-09-23",
+      "return_pct": -9.26,
+      "hold_days": 7,
       "kb_saved": 0
     }
   ]
