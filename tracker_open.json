@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-09-30T12:04:50Z",
-    "last_session": "2026-09-29",
+    "updated_at": "2026-10-01T12:37:54Z",
+    "last_session": "2026-09-30",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "Healthcare",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 6.88,
+      "current_price": 6.56,
       "max_price": 9.43,
-      "min_price": 6.88,
-      "last_updated": "2026-09-29",
-      "return_pct": -21.37,
-      "hold_days": 13,
+      "min_price": 6.56,
+      "last_updated": "2026-09-30",
+      "return_pct": -25.03,
+      "hold_days": 14,
       "kb_saved": 0
     },
     {
@@ -57,12 +57,12 @@
       "sector": "Healthcare",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 31.98,
+      "current_price": 32.18,
       "max_price": 33.68,
       "min_price": 29.54,
-      "last_updated": "2026-09-29",
-      "return_pct": -5.05,
-      "hold_days": 6,
+      "last_updated": "2026-09-30",
+      "return_pct": -4.45,
+      "hold_days": 7,
       "kb_saved": 0
     },
     {
@@ -87,12 +87,12 @@
       "sector": "Healthcare",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 91.12,
-      "max_price": 91.12,
+      "current_price": 94.8,
+      "max_price": 94.8,
       "min_price": 89.92,
-      "last_updated": "2026-09-29",
-      "return_pct": 1.33,
-      "hold_days": 2,
+      "last_updated": "2026-09-30",
+      "return_pct": 5.43,
+      "hold_days": 3,
       "kb_saved": 0
     },
     {
@@ -117,12 +117,12 @@
       "sector": "Technology",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 8.21,
-      "max_price": 8.21,
+      "current_price": 8.31,
+      "max_price": 8.31,
       "min_price": 8.21,
-      "last_updated": "2026-09-29",
-      "return_pct": 0.0,
-      "hold_days": 1,
+      "last_updated": "2026-09-30",
+      "return_pct": 1.22,
+      "hold_days": 2,
       "kb_saved": 0
     }
   ]
