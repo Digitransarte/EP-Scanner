@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated_at": "2026-10-01T12:37:54Z",
+    "updated_at": "2026-10-02T12:02:33Z",
     "version": 1
   },
   "positions": [
@@ -1354,6 +1354,39 @@
       "exit_date": "2026-09-15",
       "return_pct": -8.98,
       "hold_days": 2,
+      "exit_reason": "STOP_HIT",
+      "kb_saved": 0
+    },
+    {
+      "id": 42,
+      "ticker": "BIAF",
+      "scan_date": "2026-09-17",
+      "entry_price": 8.75,
+      "gap_pct": 30.84,
+      "vol_ratio": 91.04,
+      "magna_score": 53,
+      "strategy_type": "EP",
+      "ep_type": "9M_EP",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 6.45,
+      "stop_pct": 26.3,
+      "prev_close": 5.35,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Healthcare",
+      "float_m": 0.0,
+      "status": "LOSS",
+      "current_price": 6.145,
+      "max_price": 9.43,
+      "min_price": 6.145,
+      "last_updated": "2026-10-01",
+      "exit_price": 6.145,
+      "exit_date": "2026-10-01",
+      "return_pct": -29.77,
+      "hold_days": 15,
       "exit_reason": "STOP_HIT",
       "kb_saved": 0
     }
