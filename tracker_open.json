@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-10-08T12:58:27Z",
-    "last_session": "2026-10-07",
+    "updated_at": "2026-10-09T12:45:15Z",
+    "last_session": "2026-10-08",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "Healthcare",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 91.08,
+      "current_price": 94.26,
       "max_price": 98.46,
       "min_price": 89.92,
-      "last_updated": "2026-10-07",
-      "return_pct": 1.29,
-      "hold_days": 10,
+      "last_updated": "2026-10-08",
+      "return_pct": 4.83,
+      "hold_days": 11,
       "kb_saved": 0
     },
     {
@@ -57,12 +57,42 @@
       "sector": "Technology",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 8.32,
+      "current_price": 8.26,
       "max_price": 8.44,
       "min_price": 8.21,
-      "last_updated": "2026-10-07",
-      "return_pct": 1.34,
-      "hold_days": 9,
+      "last_updated": "2026-10-08",
+      "return_pct": 0.61,
+      "hold_days": 10,
+      "kb_saved": 0
+    },
+    {
+      "id": 46,
+      "ticker": "PCRX",
+      "scan_date": "2026-10-08",
+      "entry_price": 36.39,
+      "gap_pct": 44.15,
+      "vol_ratio": 36.0,
+      "magna_score": 54,
+      "strategy_type": "EP",
+      "ep_type": "STORY/NEGLECTED",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 36.27,
+      "stop_pct": 0.3,
+      "prev_close": 25.2,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Healthcare",
+      "float_m": 0.0,
+      "status": "OPEN",
+      "current_price": 36.39,
+      "max_price": 36.39,
+      "min_price": 36.39,
+      "last_updated": "2026-10-08",
+      "return_pct": 0.0,
+      "hold_days": 1,
       "kb_saved": 0
     }
   ]
