@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-10-19T12:25:28Z",
-    "last_session": "2026-10-16",
+    "updated_at": "2026-10-20T11:03:48Z",
+    "last_session": "2026-10-19",
     "version": 1
   },
   "positions": [
@@ -30,9 +30,9 @@
       "current_price": 36.34,
       "max_price": 36.4,
       "min_price": 36.31,
-      "last_updated": "2026-10-16",
+      "last_updated": "2026-10-19",
       "return_pct": -0.14,
-      "hold_days": 11,
+      "hold_days": 12,
       "kb_saved": 0
     }
   ]
