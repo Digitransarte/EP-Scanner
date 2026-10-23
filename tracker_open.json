@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-10-22T11:19:24Z",
-    "last_session": "2026-10-21",
+    "updated_at": "2026-10-23T11:10:29Z",
+    "last_session": "2026-10-22",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "Healthcare",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 36.33,
+      "current_price": 36.34,
       "max_price": 36.4,
       "min_price": 36.31,
-      "last_updated": "2026-10-21",
-      "return_pct": -0.16,
-      "hold_days": 14,
+      "last_updated": "2026-10-22",
+      "return_pct": -0.14,
+      "hold_days": 15,
       "kb_saved": 0
     }
   ]
