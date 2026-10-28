@@ -1,39 +1,8 @@
 {
   "_meta": {
-    "updated_at": "2026-10-27T11:44:53Z",
-    "last_session": "2026-10-26",
+    "updated_at": "2026-10-28T12:18:24Z",
+    "last_session": "2026-10-27",
     "version": 1
   },
-  "positions": [
-    {
-      "id": 46,
-      "ticker": "PCRX",
-      "scan_date": "2026-10-08",
-      "entry_price": 36.39,
-      "gap_pct": 44.15,
-      "vol_ratio": 36.0,
-      "magna_score": 54,
-      "strategy_type": "EP",
-      "ep_type": "STORY/NEGLECTED",
-      "oneil_score": 0,
-      "oneil_grade": "",
-      "oneil_setup": "",
-      "entry_window": "PRIME",
-      "stop_price": 36.27,
-      "stop_pct": 0.3,
-      "prev_close": 25.2,
-      "catalyst": "—",
-      "thesis": "",
-      "sector": "Healthcare",
-      "float_m": 0.0,
-      "status": "OPEN",
-      "current_price": 36.38,
-      "max_price": 36.42,
-      "min_price": 36.31,
-      "last_updated": "2026-10-26",
-      "return_pct": -0.03,
-      "hold_days": 19,
-      "kb_saved": 0
-    }
-  ]
+  "positions": []
 }
