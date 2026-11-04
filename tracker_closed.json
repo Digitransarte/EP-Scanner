@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated_at": "2026-11-03T13:46:32Z",
+    "updated_at": "2026-11-04T13:55:05Z",
     "version": 1
   },
   "positions": [
@@ -1552,6 +1552,39 @@
       "exit_date": "2026-10-16",
       "return_pct": -11.95,
       "hold_days": 5,
+      "exit_reason": "STOP_HIT",
+      "kb_saved": 0
+    },
+    {
+      "id": 48,
+      "ticker": "PCLA",
+      "scan_date": "2026-10-29",
+      "entry_price": 11.1,
+      "gap_pct": 39.82,
+      "vol_ratio": 7073.76,
+      "magna_score": 67,
+      "strategy_type": "EP",
+      "ep_type": "STORY/NEGLECTED",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 7.56,
+      "stop_pct": 31.9,
+      "prev_close": 5.96,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Communication Services",
+      "float_m": 0.0,
+      "status": "LOSS",
+      "current_price": 6.99,
+      "max_price": 11.1,
+      "min_price": 6.99,
+      "last_updated": "2026-11-03",
+      "exit_price": 6.99,
+      "exit_date": "2026-11-03",
+      "return_pct": -37.03,
+      "hold_days": 6,
       "exit_reason": "STOP_HIT",
       "kb_saved": 0
     }
