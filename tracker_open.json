@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "updated_at": "2026-11-10T14:29:37Z",
-    "last_session": "2026-11-09",
+    "updated_at": "2026-11-11T13:43:08Z",
+    "last_session": "2026-11-10",
     "version": 1
   },
   "positions": [
@@ -27,12 +27,12 @@
       "sector": "Energy",
       "float_m": 0.0,
       "status": "OPEN",
-      "current_price": 16.4,
-      "max_price": 16.4,
+      "current_price": 17.97,
+      "max_price": 17.97,
       "min_price": 16.4,
-      "last_updated": "2026-11-09",
-      "return_pct": 0.0,
-      "hold_days": 1,
+      "last_updated": "2026-11-10",
+      "return_pct": 9.57,
+      "hold_days": 2,
       "kb_saved": 0
     }
   ]
