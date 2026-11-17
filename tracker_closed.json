@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated_at": "2026-11-16T15:04:50Z",
+    "updated_at": "2026-11-17T15:38:14Z",
     "version": 1
   },
   "positions": [
@@ -1585,6 +1585,39 @@
       "exit_date": "2026-11-03",
       "return_pct": -37.03,
       "hold_days": 6,
+      "exit_reason": "STOP_HIT",
+      "kb_saved": 0
+    },
+    {
+      "id": 49,
+      "ticker": "CKX",
+      "scan_date": "2026-11-09",
+      "entry_price": 16.4,
+      "gap_pct": 68.76,
+      "vol_ratio": 12814.32,
+      "magna_score": 58,
+      "strategy_type": "EP",
+      "ep_type": "STORY/NEGLECTED",
+      "oneil_score": 0,
+      "oneil_grade": "",
+      "oneil_setup": "",
+      "entry_window": "PRIME",
+      "stop_price": 15.05,
+      "stop_pct": 8.2,
+      "prev_close": 10.37,
+      "catalyst": "—",
+      "thesis": "",
+      "sector": "Energy",
+      "float_m": 0.0,
+      "status": "LOSS",
+      "current_price": 14.51,
+      "max_price": 17.97,
+      "min_price": 14.51,
+      "last_updated": "2026-11-16",
+      "exit_price": 14.51,
+      "exit_date": "2026-11-16",
+      "return_pct": -11.52,
+      "hold_days": 8,
       "exit_reason": "STOP_HIT",
       "kb_saved": 0
     }
